@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=23&duration=8500&pause=2000&color=000000&random=false&width=435&lines=Hi+There!;I'm+Nadhif+Aslam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=23&duration=8500&pause=2000&color=000000&center=true&random=false&width=435&lines=Hi+There!;I'm+Nadhif+Aslam)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Mr4slam
 - 👀 I’m interested in ...
